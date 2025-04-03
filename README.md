@@ -1,18 +1,17 @@
-# Subject Collector
-Um sistema de estudos que decide aleatoriamente qual assunto vai ser estudado
+# Streamdy
+Um sistema de estudos baseado em correntes de assuntos
 
-O sistema é desenvolvido em Java/Spring Boot e armazena os dados com MySQL
+Basicamente um editor de texto especializado. O sistema é desenvolvido em Java/Spring Boot e armazena os dados com MySQL
 
-## Estrutura e Funcionalidades
-### Página Principal
-- Adicionar novos assuntos
-- Conferir se certo assunto já foi adicionado
-- Acessar a coleção de assuntos (que terá uma página dedicada)
-- Selecionar aleatoriamente um dos assuntos armazenados
-  - Trocar: Outro assunto é selecionado e a probabilidade do assunto anterior aparecer novamete deve diminuir
-  - Deletar: O assunto pode ser deletado na própria página inicial
+## Adicionar novo Fluxo
+Cada fluxo vai conter/ 
+- Título: Assunto que deseja aprender ou questão que iniciou o problema
+- Desenvolvimento: Pontos altos e destaques do que tenho visto, só pra não perder a visão geral do que tenho visto
+- Alerta: O próximo ponto que eu desejo buscar ou o ponto que ficou incompleto
 
-### Banco de Assuntos
-- Listar os assuntos (por padrão dos mais antigos para os mais recentes) conforme os filtros aplicados
-- Atualizar
-- Deletar
+## Situação dos fluxos
+- Alerta de todos os fluxos
+- Últimos fluxos editado
+- Ter um campo "esquecidos" para os últimos fluxos editados mais antigos
+- lista dos títulos de todos os fluxos
+- (Não fazer categorização nem usar tags)
