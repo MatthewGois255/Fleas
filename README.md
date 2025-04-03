@@ -1,4 +1,5 @@
-# Streamdy
+# Fleas
+## *"Ideas are like rivers and incomplete ones can be as annoying as fleas on a dog ... but all rivers flow into the sea"*
 Um sistema de estudos baseado em correntes de assuntos
 
 Basicamente um editor de texto especializado. O sistema é desenvolvido em Java/Spring Boot e armazena os dados com MySQL
