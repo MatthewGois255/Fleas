@@ -1,6 +1,8 @@
 # Fleas
 ## *"Ideas are like rivers and incomplete ones can be as annoying as fleas on a dog ... but all rivers flow into the sea"*
-Um sistema de estudos baseado em correntes de assuntos
+Um sistema de controle de estudos baseado em correntes de assuntos
+
+É difícil manter os estudos orgnizados usando aplicativos de nota. Muito tempo valioso é perdido tentando lembrar onde parou e o que é preciso estudar, principalmente estudando vários assuntos ao mesmo tempo. Essa aplicação se propõe a solucionar isso
 
 Basicamente um editor de texto especializado. O sistema é desenvolvido em Java/Spring Boot e armazena os dados com MySQL
 
