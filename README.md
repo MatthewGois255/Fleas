@@ -15,6 +15,10 @@ Cada fluxo vai conter
 
   Pesquisa
 
+  Revisão
+
+  Material
+
   Personalizar lembrete
   
 - Redirecionar fluxo: Quando se deseja dedicar um fluxo para um assunto dentro de outro ou criar uma ligação entre dois fluxos (ramificações e link)
