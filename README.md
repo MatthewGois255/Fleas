@@ -9,8 +9,14 @@ Basicamente um editor de texto especializado. O sistema é desenvolvido em Java/
 ## Adicionar novo Fluxo
 Cada fluxo vai conter 
 - Título: Assunto que deseja aprender ou questão que iniciou o problema
-- Desenvolvimento: Pontos altos e destaques do que tenho visto, só pra não perder a visão geral do que tenho visto
-- Alerta: O próximo ponto que eu desejo buscar ou o ponto que ficou incompleto
+- Adicionar :
+
+  Dúvida
+
+  Pesquisa
+
+  Personalizar lembrete
+  
 - Redirecionar fluxo: Quando se deseja dedicar um fluxo para um assunto dentro de outro ou criar uma ligação entre dois fluxos (ramificações e link)
 - Categorizar: Ajuntar fluxos em grupos
 - Arquivar: Uma vez concluído, caso o usuário não deseje excluir o fluxo, ele pode armazenar tudo que registrou. Esse registro não vai mais aparecer na página principal e poderá ser acessado em uma página dedicada. Caso o fluxo tenha alertas abertos (no fluxo principal ou em uma das suas ramificações), não vai ser possível arquivá-lo
