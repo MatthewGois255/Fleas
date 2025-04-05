@@ -25,6 +25,17 @@ Cada fluxo vai conter
 - Categorizar: Ajuntar fluxos em grupos
 - Arquivar: Uma vez concluído, caso o usuário não deseje excluir o fluxo, ele pode armazenar tudo que registrou. Esse registro não vai mais aparecer na página principal e poderá ser acessado em uma página dedicada. Caso o fluxo tenha alertas abertos (no fluxo principal ou em uma das suas ramificações), não vai ser possível arquivá-lo
 
+## Adicionar novo Objetivo de estudo
+Metas que se pretende atingir
+
+A parte de "gerenciamento de tarefas" do aplicativo
+
+Vão poder ser categorizadas
+  - Por curto-médio-longo prazo
+  - Por áreas de estudo
+  - Por período de tempo (metas do dia, da semana, do mês)
+  - Personalizadas
+
 ## Situação dos fluxos
 - Alerta de todos os fluxos
 - Últimos fluxos editado
