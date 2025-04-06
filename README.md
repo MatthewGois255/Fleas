@@ -20,6 +20,8 @@ Cada fluxo vai conter
   Material
 
   Personalizar lembrete
+
+    - Adicionar uma descrição detalhando o lembrete
   
 - Redirecionar fluxo: Quando se deseja dedicar um fluxo para um assunto dentro de outro ou criar uma ligação entre dois fluxos (ramificações e link)
 - Categorizar: Ajuntar fluxos em grupos
