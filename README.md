@@ -7,21 +7,18 @@ Um sistema de controle de estudos baseado em correntes de assuntos
 Basicamente um editor de texto especializado. O sistema é desenvolvido em Java/Spring Boot e armazena os dados com MySQL
 
 ## Adicionar novo Fluxo
-Cada fluxo vai conter 
+Cada fluxo vai conter lembretes e anotações e aparecem em forma de percurso, como se cada atributo adicionada fosse um ponto diferente do percurso percorrido
 - Título: Assunto que deseja aprender ou questão que iniciou o problema
-- Adicionar :
-
-  Dúvida
-
-  Pesquisa
-
-  Revisão
-
-  Material
-
-  Personalizar lembrete
-
+- Lembrete:
+  - Dúvida
+  - Pesquisa
+  - Material
+  - Revisão
+  - Personalizar lembrete
     - Adicionar uma descrição detalhando o lembrete
+  - Anotação
+    - No percurso aparece apenas o título da anotação, que clicando poderá ser acessada clicando no ícone dela. Se vai ser direcionado para outra página ou aparecer na mesma do percurso, ainda não sei
+    - As anotações podem ser referenciadas por lembretes, do mesmo jeito que acontece nas conversas do whatsapp
   
 - Redirecionar fluxo: Quando se deseja dedicar um fluxo para um assunto dentro de outro ou criar uma ligação entre dois fluxos (ramificações e link)
 - Categorizar: Ajuntar fluxos em grupos
