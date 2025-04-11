@@ -41,3 +41,9 @@ Vão poder ser categorizadas
 - Ter um campo "esquecidos" para os últimos fluxos editados mais antigos
 - lista dos títulos de todos os fluxos
 - (Não fazer categorização nem usar tags)
+
+## Base de dados dos materiais
+Uma banco de dados para armazenar os materiais de estudo
+- Campo para o link (YouTube, Drive)
+- Agrupar por áreas e desenvolver um filtro de exibição por elas
+- Acompanhar o status de domínio (se já foi visto, se precisa ser revisado)
